@@ -1,3 +1,2 @@
 # Virtual MMX
-- [Wintergatan](https://www.youtube.com/user/wintergatan2000/)
-- [Discord Channel](https://discord.gg/rMK6DFT)
+- [Project moved](https://github.com/wintergatan-community/virtual-mmx)
